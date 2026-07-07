@@ -24,7 +24,7 @@
   **[leakshot-web](https://github.com/avitalmintz/leakshot-web)** — Scan
   screenshots for accidentally-exposed credentials — API keys, passwords, auth
   tokens, credit-card and Social Security numbers — and redact them. Runs
-  entirely on-device with Apple Vision OCR, or fully in the browser where images
+  entirely on-device with Apple Vision OCR, or fully in the browser, where images
   never leave your device. *Python · TypeScript*
 - **[gesture-control](https://github.com/avitalmintz/gesture-control)** — Control
   your Mac with your hands using just the camera; one MediaPipe hand skeleton
@@ -44,6 +44,17 @@
   browsing context across sessions: a Chrome extension, Node/Postgres backend,
   and SwiftUI iOS companion. *Swift*
 
+### Hardware & creative coding
+
+- **[led-pixel-frame](https://github.com/avitalmintz/led-pixel-frame)** — A 16×16
+  LED panel that shows live NYC subway arrival times or turns music into a light
+  show, driven from a Mac over an ESP32. *Python*
+- **[time-sink](https://github.com/avitalmintz/time-sink)** — A thermal printer
+  that prints receipts of your browser sessions, with AI-generated essays behind
+  scannable QR codes. *Python*
+- **[friction](https://github.com/avitalmintz/friction)** — A Chrome extension
+  that interrupts your Instagram scrolling. *JavaScript*
+
 ### Data & NLP
 
 - **[reddit-mental-health-nlp](https://github.com/avitalmintz/reddit-mental-health-nlp)**
@@ -56,16 +67,6 @@
   — Interactive analysis of the relationship between Airbnb prices and subway
   proximity in NYC. *Streamlit*
 
-### Hardware & creative coding
-
-- **[led-pixel-frame](https://github.com/avitalmintz/led-pixel-frame)** — A 16×16
-  LED panel that shows live NYC subway arrival times or turns music into a light
-  show, driven from a Mac over an ESP32. *Python*
-- **[time-sink](https://github.com/avitalmintz/time-sink)** — A thermal printer
-  that prints receipts of your browser sessions, with AI-generated essays behind
-  scannable QR codes. *Python*
-- **[friction](https://github.com/avitalmintz/friction)** — A Chrome extension
-  that interrupts your Instagram scrolling. *JavaScript*
 
 ### Building with
 

@@ -1,26 +1,38 @@
 ## Avital Mintz
 
-I build local-first, privacy-focused tools for macOS — software that does real
-work entirely on your own machine — alongside production AI applications.
+I build local-first, privacy-focused software — tools that do real work on your
+own machine — plus AI applications, data projects, and the occasional hardware
+or art experiment.
 
 Most of what's here runs on-device: no cloud, no accounts, nothing leaving your
 laptop. I care about tools that are fast, honest about their limits, and yours.
 
-### Local-first macOS tools
+### Local-first & privacy tools
 
 - **[granola-local](https://github.com/avitalmintz/granola-local)** — AI meeting
-  notes that run 100% on your Mac. A free, open-source reimplementation inspired
-  by Granola: on-device transcription, your rough bullets rewritten into
-  structured notes. *Python*
+  notes that run 100% on your Mac; a free, open-source reimplementation inspired
+  by Granola. *Python*
+- **[leakshot](https://github.com/avitalmintz/leakshot)** /
+  **[leakshot-web](https://github.com/avitalmintz/leakshot-web)** — Find and
+  redact secrets in screenshots, entirely on-device with Apple Vision OCR, or
+  fully in the browser where images never leave your device. *Python · TypeScript*
 - **[gesture-control](https://github.com/avitalmintz/gesture-control)** — Control
-  your Mac with your hands using just the built-in camera, on a MediaPipe hand
-  skeleton driving several apps. *Python · OpenCV*
+  your Mac with your hands using just the camera; one MediaPipe hand skeleton
+  drives four apps (media controller, air mouse, a game, air-paint). *Python · OpenCV*
 - **[clipsplit](https://github.com/avitalmintz/clipsplit)** — Split a screen
-  recording into clean clips wherever the content changes, each auto-named from
-  the text on screen via on-device OCR. *Python · ffmpeg · Apple Vision*
-- **[freshdoc](https://github.com/avitalmintz/freshdoc)** — Find the notes in a
-  markdown folder that have gone stale, contradict a newer note, or link to
-  things that no longer exist. Deterministic, zero-ML by default. *Python*
+  recording into clean clips at each content change, each auto-named from the
+  text on screen via OCR. *Python · ffmpeg · Apple Vision*
+- **[read-receipts](https://github.com/avitalmintz/read-receipts)** — AI iMessage
+  archive viewer with natural-language Q&A, running entirely in your browser via
+  WebAssembly SQLite. *TypeScript · Claude*
+- **[clipboard-manager](https://github.com/avitalmintz/clipboard-manager)** — A
+  macOS clipboard manager with AI-powered semantic search. *JavaScript · Claude*
+- **[freshdoc](https://github.com/avitalmintz/freshdoc)** — Flag stale,
+  contradicting, or broken-reference notes in a markdown folder. Deterministic,
+  zero-ML by default. *Python*
+- **[context-restore](https://github.com/avitalmintz/context-restore)** — Preserve
+  browsing context across sessions: a Chrome extension, Node/Postgres backend,
+  and SwiftUI iOS companion. *Swift*
 
 ### AI applications
 
@@ -28,11 +40,38 @@ laptop. I care about tools that are fast, honest about their limits, and yours.
   — Production AI application that helps forensic psychologists draft psychiatric
   evaluation reports. *Claude · Amazon Bedrock · AWS Lambda · Cognito · Amplify*
 - **[shelf-life-app](https://github.com/avitalmintz/shelf-life-app)** —
-  Mobile-first screenshot organizer with AI categorization. A React PWA with a
+  Mobile-first screenshot organizer with AI categorization; a React PWA with a
   Capacitor iOS build, a native Share Extension, and local-first storage.
   *TypeScript*
+- **[semantic-study-coach](https://github.com/avitalmintz/semantic-study-coach)**
+  — Study in your own words: AI-generated flashcards with semantic grading and
+  SM-2 spaced repetition. *Next.js*
+
+### Data & NLP
+
+- **[reddit-mental-health-nlp](https://github.com/avitalmintz/reddit-mental-health-nlp)**
+  — NLP analysis of 21K peer-support comments using GPT-4 classification,
+  BERTopic, and sentence embeddings.
+- **[weather-story](https://github.com/avitalmintz/weather-story)** — A
+  data-journalism narrative of Seattle weather patterns, built with Streamlit
+  and Altair. *Python*
+- **[nyc-airbnb-subway-analysis](https://github.com/avitalmintz/nyc-airbnb-subway-analysis)**
+  — Interactive analysis of the relationship between Airbnb prices and subway
+  proximity in NYC. *Streamlit*
+
+### Hardware & creative coding
+
+- **[led-pixel-frame](https://github.com/avitalmintz/led-pixel-frame)** — A 16×16
+  LED panel that shows live NYC subway arrival times or turns music into a light
+  show, driven from a Mac over an ESP32. *Python*
+- **[time-sink](https://github.com/avitalmintz/time-sink)** — A thermal printer
+  that prints receipts of your browser sessions, with AI-generated essays behind
+  scannable QR codes. *Python*
+- **[friction](https://github.com/avitalmintz/friction)** — A Chrome extension
+  that interrupts your Instagram scrolling. *JavaScript*
 
 ### Building with
 
-`Python` · `TypeScript` · `React` · `Whisper` · `OpenCV` · `Apple Vision` ·
-`AWS (Bedrock, Lambda, Cognito, Amplify)` · `local LLMs (Ollama)`
+`Python` · `TypeScript` · `React / Next.js` · `Swift` · `Claude` · `Whisper` ·
+`OpenCV` · `MediaPipe` · `Apple Vision` · `WebAssembly` · `AWS (Bedrock, Lambda,
+Cognito, Amplify)` · `ESP32` · `local LLMs (Ollama)`

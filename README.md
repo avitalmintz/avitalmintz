@@ -1,11 +1,5 @@
 ## Avital Mintz
 
-I build local-first, privacy-focused software — tools that do real work on your
-own machine — plus AI applications, data projects, and the occasional hardware
-or art experiment.
-
-Most of what's here runs on-device: no cloud, no accounts, nothing leaving your
-laptop. I care about tools that are fast, honest about their limits, and yours.
 
 ### Local-first & privacy tools
 

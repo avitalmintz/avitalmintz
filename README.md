@@ -1,15 +1,31 @@
 ## Avital Mintz
 
 
+### AI applications
+
+- **[forensic-ai-report-assistant](https://github.com/avitalmintz/forensic-ai-report-assistant)**
+  — A production system I was hired to build out for Fifth Avenue Forensics: an
+  AI application that helps their forensic psychologists draft psychiatric
+  evaluation reports. *Claude · Amazon Bedrock · AWS Lambda · Cognito · Amplify*
+- **[shelf-life-app](https://github.com/avitalmintz/shelf-life-app)** —
+  Mobile-first screenshot organizer with AI categorization; a React PWA with a
+  Capacitor iOS build, a native Share Extension, and local-first storage.
+  *TypeScript*
+- **[semantic-study-coach](https://github.com/avitalmintz/semantic-study-coach)**
+  — Study in your own words: AI-generated flashcards with semantic grading and
+  SM-2 spaced repetition. *Next.js*
+
 ### Local-first & privacy tools
 
 - **[granola-local](https://github.com/avitalmintz/granola-local)** — AI meeting
   notes that run 100% on your Mac; a free, open-source reimplementation inspired
   by Granola. *Python*
 - **[leakshot](https://github.com/avitalmintz/leakshot)** /
-  **[leakshot-web](https://github.com/avitalmintz/leakshot-web)** — Find and
-  redact secrets in screenshots, entirely on-device with Apple Vision OCR, or
-  fully in the browser where images never leave your device. *Python · TypeScript*
+  **[leakshot-web](https://github.com/avitalmintz/leakshot-web)** — Scan
+  screenshots for accidentally-exposed credentials — API keys, passwords, auth
+  tokens, credit-card and Social Security numbers — and redact them. Runs
+  entirely on-device with Apple Vision OCR, or fully in the browser where images
+  never leave your device. *Python · TypeScript*
 - **[gesture-control](https://github.com/avitalmintz/gesture-control)** — Control
   your Mac with your hands using just the camera; one MediaPipe hand skeleton
   drives four apps (media controller, air mouse, a game, air-paint). *Python · OpenCV*
@@ -27,19 +43,6 @@
 - **[context-restore](https://github.com/avitalmintz/context-restore)** — Preserve
   browsing context across sessions: a Chrome extension, Node/Postgres backend,
   and SwiftUI iOS companion. *Swift*
-
-### AI applications
-
-- **[forensic-ai-report-assistant](https://github.com/avitalmintz/forensic-ai-report-assistant)**
-  — Production AI application that helps forensic psychologists draft psychiatric
-  evaluation reports. *Claude · Amazon Bedrock · AWS Lambda · Cognito · Amplify*
-- **[shelf-life-app](https://github.com/avitalmintz/shelf-life-app)** —
-  Mobile-first screenshot organizer with AI categorization; a React PWA with a
-  Capacitor iOS build, a native Share Extension, and local-first storage.
-  *TypeScript*
-- **[semantic-study-coach](https://github.com/avitalmintz/semantic-study-coach)**
-  — Study in your own words: AI-generated flashcards with semantic grading and
-  SM-2 spaced repetition. *Next.js*
 
 ### Data & NLP
 

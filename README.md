@@ -11,9 +11,6 @@
   Mobile-first screenshot organizer with AI categorization; a React PWA with a
   Capacitor iOS build, a native Share Extension, and local-first storage.
   *TypeScript*
-- **[semantic-study-coach](https://github.com/avitalmintz/semantic-study-coach)**
-  — Study in your own words: AI-generated flashcards with semantic grading and
-  SM-2 spaced repetition. *Next.js*
 
 ### Local-first & privacy tools
 
@@ -46,7 +43,7 @@
 
 ### Hardware & creative coding
 
-- **[led-pixel-frame](https://github.com/avitalmintz/led-pixel-frame)** — A 16×16
+- **[led-pixel-frame](https://github.com/avitalmintz/led-pixel-frame)** — Code for a 16×16
   LED panel that shows live NYC subway arrival times or turns music into a light
   show, driven from a Mac over an ESP32. *Python*
 - **[time-sink](https://github.com/avitalmintz/time-sink)** — A thermal printer

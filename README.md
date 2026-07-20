@@ -15,10 +15,6 @@
 
 ### Local-first & privacy tools
 
-- **[granola-local](https://github.com/avitalmintz/granola-local)** — AI meeting
-  notes that run 100% on your Mac; a free, open-source reimplementation inspired
-  by Granola. *Python*
-- **[leakshot](https://github.com/avitalmintz/leakshot)** /
   **[leakshot-web](https://github.com/avitalmintz/leakshot-web)** — Scan
   screenshots for accidentally-exposed credentials — API keys, passwords, auth
   tokens, credit-card and Social Security numbers — and redact them. Runs

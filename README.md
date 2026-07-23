@@ -33,7 +33,7 @@
 - **[clipsplit](https://github.com/avitalmintz/clipsplit)** — Split a screen
   recording into clean clips at each content change, each auto-named from the
   text on screen via OCR. *Python · ffmpeg · Apple Vision*
-  - **[freshdoc](https://github.com/avitalmintz/freshdoc)** — Flag stale,
+- **[freshdoc](https://github.com/avitalmintz/freshdoc)** — Flag stale,
   contradicting, or broken-reference notes in a markdown folder. Deterministic,
   zero-ML by default. *Python*
 

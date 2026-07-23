@@ -14,28 +14,29 @@
 
 ### Local-first & privacy tools
 
-- **[leakshot-web](https://github.com/avitalmintz/leakshot-web)** — Scan
-  screenshots for accidentally-exposed credentials — API keys, passwords, auth
-  tokens, credit-card and Social Security numbers — and redact them. Runs
-  entirely on-device with Apple Vision OCR, or fully in the browser, where images
-  never leave your device. *Python · TypeScript* **[Try it now!](leakshot-web.vercel.app)**
 - **[gesture-control](https://github.com/avitalmintz/gesture-control)** — Control
   your Mac with your hands using just the camera; one MediaPipe hand skeleton
   drives four apps (media controller, air mouse, a game, air-paint). *Python · OpenCV*
-- **[clipsplit](https://github.com/avitalmintz/clipsplit)** — Split a screen
-  recording into clean clips at each content change, each auto-named from the
-  text on screen via OCR. *Python · ffmpeg · Apple Vision*
 - **[read-receipts](https://github.com/avitalmintz/read-receipts)** — AI iMessage
   archive viewer with natural-language Q&A, running entirely in your browser via
   WebAssembly SQLite. *TypeScript · Claude*
+  - **[context-restore](https://github.com/avitalmintz/context-restore)** — Preserve
+  browsing context across sessions: a Chrome extension, Node/Postgres backend,
+  and SwiftUI iOS companion. *Swift*
 - **[clipboard-manager](https://github.com/avitalmintz/clipboard-manager)** — A
   macOS clipboard manager with AI-powered semantic search. *JavaScript · Claude*
 - **[freshdoc](https://github.com/avitalmintz/freshdoc)** — Flag stale,
   contradicting, or broken-reference notes in a markdown folder. Deterministic,
   zero-ML by default. *Python*
-- **[context-restore](https://github.com/avitalmintz/context-restore)** — Preserve
-  browsing context across sessions: a Chrome extension, Node/Postgres backend,
-  and SwiftUI iOS companion. *Swift*
+  - **[leakshot-web](https://github.com/avitalmintz/leakshot-web)** — Scan
+  screenshots for accidentally-exposed credentials — API keys, passwords, auth
+  tokens, credit-card and Social Security numbers — and redact them. Runs
+  entirely on-device with Apple Vision OCR, or fully in the browser, where images
+  never leave your device. *Python · TypeScript* **[Try it now!](leakshot-web.vercel.app)**
+- **[clipsplit](https://github.com/avitalmintz/clipsplit)** — Split a screen
+  recording into clean clips at each content change, each auto-named from the
+  text on screen via OCR. *Python · ffmpeg · Apple Vision*
+
 
 ### Hardware & creative coding
 

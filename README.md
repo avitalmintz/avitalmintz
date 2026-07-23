@@ -28,7 +28,7 @@
 - **[freshdoc](https://github.com/avitalmintz/freshdoc)** — Flag stale,
   contradicting, or broken-reference notes in a markdown folder. Deterministic,
   zero-ML by default. *Python*
-  - **[leakshot-web](https://github.com/avitalmintz/leakshot-web)** — Scan
+- **[leakshot-web](https://github.com/avitalmintz/leakshot-web)** — Scan
   screenshots for accidentally-exposed credentials — API keys, passwords, auth
   tokens, credit-card and Social Security numbers — and redact them. Runs
   entirely on-device with Apple Vision OCR, or fully in the browser, where images

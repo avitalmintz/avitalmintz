@@ -16,18 +16,22 @@
 
 - **[gesture-control](https://github.com/avitalmintz/gesture-control)** — Control
   your Mac with your hands using just the camera; one MediaPipe hand skeleton
-  drives four apps (media controller, air mouse, a game, air-paint). *Python · OpenCV*
-- **[read-receipts](https://github.com/avitalmintz/read-receipts)** — AI iMessage
-  archive viewer with natural-language Q&A, running entirely in your browser via
-  WebAssembly SQLite. *TypeScript · Claude*
+  drives four apps — a media controller, an air mouse, a Fruit Ninja-style
+  slicing game, and an air-paint canvas you draw on with your fingertip.
+  *Python · OpenCV*
+- **[read-receipts](https://github.com/avitalmintz/read-receipts)** — Ask Claude
+  natural-language questions about your iMessage history and get answers with real
+  dates and quotes, plus per-contact "how they text you" summaries. Runs entirely
+  in your browser via WebAssembly SQLite. *TypeScript · Claude*
 - **[leakshot-web](https://github.com/avitalmintz/leakshot-web)** — Scan
   screenshots for accidentally-exposed credentials — API keys, passwords, auth
   tokens, credit-card and Social Security numbers — and redact them. Runs
   entirely on-device with Apple Vision OCR, or fully in the browser, where images
   never leave your device. *Python · TypeScript* **[Try it now!](leakshot-web.vercel.app)**
-- **[context-restore](https://github.com/avitalmintz/context-restore)** — Preserve
-  browsing context across sessions: a Chrome extension, Node/Postgres backend,
-  and SwiftUI iOS companion. *Swift*
+- **[context-restore](https://github.com/avitalmintz/context-restore)** — Watches
+  your Chrome browsing, groups related pages into tasks, and reminds you about the
+  ones you started but never finished — across a Chrome extension, Node/Postgres
+  backend, and SwiftUI iOS app. *Swift*
 - **[clipboard-manager](https://github.com/avitalmintz/clipboard-manager)** — A
   macOS clipboard manager with AI-powered semantic search. *JavaScript · Claude*
 - **[clipsplit](https://github.com/avitalmintz/clipsplit)** — Split a screen

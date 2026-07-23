@@ -20,7 +20,7 @@
 - **[read-receipts](https://github.com/avitalmintz/read-receipts)** — AI iMessage
   archive viewer with natural-language Q&A, running entirely in your browser via
   WebAssembly SQLite. *TypeScript · Claude*
-  - **[context-restore](https://github.com/avitalmintz/context-restore)** — Preserve
+- **[context-restore](https://github.com/avitalmintz/context-restore)** — Preserve
   browsing context across sessions: a Chrome extension, Node/Postgres backend,
   and SwiftUI iOS companion. *Swift*
 - **[clipboard-manager](https://github.com/avitalmintz/clipboard-manager)** — A

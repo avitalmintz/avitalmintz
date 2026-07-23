@@ -19,7 +19,7 @@
   screenshots for accidentally-exposed credentials — API keys, passwords, auth
   tokens, credit-card and Social Security numbers — and redact them. Runs
   entirely on-device with Apple Vision OCR, or fully in the browser, where images
-  never leave your device. *Python · TypeScript*
+  never leave your device. *Python · TypeScript* Try it now: leakshot-web.vercel.app
 - **[gesture-control](https://github.com/avitalmintz/gesture-control)** — Control
   your Mac with your hands using just the camera; one MediaPipe hand skeleton
   drives four apps (media controller, air mouse, a game, air-paint). *Python · OpenCV*

@@ -9,8 +9,8 @@
   evaluation reports. *Claude · Amazon Bedrock · AWS Lambda · Cognito · Amplify*
 - **[shelf-life-app](https://github.com/avitalmintz/shelf-life-app)** —
   Mobile-first screenshot organizer with AI categorization; a React PWA with a
-  Capacitor iOS build, a native Share Extension, and local-first storage. **[Try it now!](https://apps.apple.com/us/app/shelf-life-screenshot-saver/id6766403088)**
-  *TypeScript*
+  Capacitor iOS build, a native Share Extension, and local-first storage.
+  *TypeScript* **[Try it now!](https://apps.apple.com/us/app/shelf-life-screenshot-saver/id6766403088)**
 
 ### Local-first & privacy tools
 

@@ -9,8 +9,7 @@
   evaluation reports. *Claude · Amazon Bedrock · AWS Lambda · Cognito · Amplify*
 - **[shelf-life-app](https://github.com/avitalmintz/shelf-life-app)** —
   Mobile-first screenshot organizer with AI categorization; a React PWA with a
-  Capacitor iOS build, a native Share Extension, and local-first storage. **[App
-  store link](https://apps.apple.com/us/app/shelf-life-screenshot-saver/id6766403088)**
+  Capacitor iOS build, a native Share Extension, and local-first storage. **[Try it now!](https://apps.apple.com/us/app/shelf-life-screenshot-saver/id6766403088)**
   *TypeScript*
 
 ### Local-first & privacy tools
@@ -19,7 +18,7 @@
   screenshots for accidentally-exposed credentials — API keys, passwords, auth
   tokens, credit-card and Social Security numbers — and redact them. Runs
   entirely on-device with Apple Vision OCR, or fully in the browser, where images
-  never leave your device. *Python · TypeScript* Try it now: leakshot-web.vercel.app
+  never leave your device. *Python · TypeScript* Try it now: **leakshot-web.vercel.app**
 - **[gesture-control](https://github.com/avitalmintz/gesture-control)** — Control
   your Mac with your hands using just the camera; one MediaPipe hand skeleton
   drives four apps (media controller, air mouse, a game, air-paint). *Python · OpenCV*

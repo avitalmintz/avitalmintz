@@ -54,7 +54,7 @@
 - **[friction](https://github.com/avitalmintz/friction)** — A Chrome extension
   that interrupts your Instagram scrolling. *JavaScript*
 
-### Data & NLP
+### Data & NLP for course work
 
 - **[reddit-mental-health-nlp](https://github.com/avitalmintz/reddit-mental-health-nlp)**
   — NLP analysis of 21K peer-support comments using GPT-4 classification,

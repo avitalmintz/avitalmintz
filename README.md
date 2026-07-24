@@ -7,10 +7,11 @@
   — A production system I was hired to build out for Fifth Avenue Forensics: an
   AI application that helps their forensic psychologists draft psychiatric
   evaluation reports. *Claude · Amazon Bedrock · AWS Lambda · Cognito · Amplify*
-- **[shelf-life-app](https://github.com/avitalmintz/shelf-life-app)** —
-  Mobile-first screenshot organizer with AI categorization; a React PWA with a
-  Capacitor iOS build, a native Share Extension, and local-first storage.
-  *TypeScript* **[Try it now!](https://apps.apple.com/us/app/shelf-life-screenshot-saver/id6766403088)**
+- **[shelf-life-app](https://github.com/avitalmintz/shelf-life-app)** — Share any
+  iPhone screenshot into the app and Claude auto-sorts it onto the right shelf,
+  with searchable titles, notes, and reminders. A React PWA wrapped with Capacitor
+  for iOS, a native Share Extension, and local-first storage.
+  *TypeScript · Claude* **[Try it now!](https://apps.apple.com/us/app/shelf-life-screenshot-saver/id6766403088)**
 
 ### Local-first & privacy tools
 
